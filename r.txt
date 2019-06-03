@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1ddssfsdfsffs
 dfs
 sddd
+=======
+1
+>>>>>>> master
